@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/2de9b4c9e603f1ee91b216f0b85ce2c701a32fa5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_b3d3736819cc50ae217a4f5a3215fa72762ef171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/7d3d2895421f7edbc743467473d4eac2e3433a17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_db4cc667c604f920e042063b5e0b27d9a68bdde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_57804f37eec4a3a1fad495fb35ae7c4d0d7c527b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/73e94db234ea93168d7f202c3b0c3eeeb76effe6/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_76e8aab30adb40ea3bc0f9684258d4d663587b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/c01969d74e0f2f292b7b9942a019e9d9006aa9d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_4f2a254693a4d8751659e9f7cee377d2560f361c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/73e94db234ea93168d7f202c3b0c3eeeb76effe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_1ef43a4e3865e3a1f8c2bfdf1da365909ce29d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/4e0b54df1fff8850fae33162435168d6cb474196/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_49c14f65314f036b1e9df97aba4f55e58201c396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/d360ca717a2ae9937a63a3b8818dd065d16f3170/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_88dfd3654a700162f2c99a0b2109bb7869bca47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_debec763b48a7990bbd83840a67ac36d7d34e4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/f4039e603be493614d51c2d3a5304adbb19fb77d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fbabdb0e28dcce63fd0f2e6c284378ede721eeb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/4d49c58b0971882ca165be34aa0d4a86d4dec5b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_40a6bd768e72b323c2cb5018ad512ed60bcad528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/4e0b54df1fff8850fae33162435168d6cb474196/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_a278a6f0356b5ebc9e5266eabba6abc3f9eef0cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/2de9b4c9e603f1ee91b216f0b85ce2c701a32fa5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f1e6b649849dc8539297f36f9eecd96fcd10f52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/98dd50795e1d8a54da0c0a9b1818103951926a5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_cbd1bb118ae581cc6eb0843f660579dffff985bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/f4039e603be493614d51c2d3a5304adbb19fb77d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_adc2164bcdd4420e207c9876319efcb7a39ed73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/98dd50795e1d8a54da0c0a9b1818103951926a5e/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d7f0892b7dad2b53d62e56a1266032f7d150f84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/illnino/.android/build-cache/149be1184b1a82ad3628be4517afa929b2f34f87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/illnino/workspace/Android/logCollector/app/build/intermediates/pre-dexed/debug/classes_7acca55cdacf184d98c36dc9ef02446ace79bcfa.jar" />
+    </item>
+
+</items>
